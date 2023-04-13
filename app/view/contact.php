@@ -1,4 +1,12 @@
-<div id="content">
+<section id="content" class="inner-pages">
+<div class="row">
+    <h1>Contact page</h1>
+    <p>Information coming soon</p>
+    </div>
+</section>
+
+
+<!-- <div id="content">
 	<div class="container">
 		<h1>Contact Us</h1>
 		<form action="sendContactForm" method="post"  class="sends-email ctc-form" >
@@ -30,6 +38,6 @@
 			<input type="submit" class="ctcBtn btn btn-primary" value="SUBMIT FORM" disabled>
 		</form>
 	</div>
-</div>
+</div> -->
 
 

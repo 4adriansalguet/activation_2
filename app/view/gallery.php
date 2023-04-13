@@ -1,4 +1,12 @@
-<div id="content">
+<section id="content" class="inner-pages">
+<div class="row">
+    <h1>Gallery page</h1>
+    <p>Information coming soon</p>
+    </div>
+</section>
+
+
+<!-- <div id="content">
 	<div class="container">
 		<h1>Gallery</h1>
 		<p>Information Coming Soon.</p>
@@ -15,4 +23,4 @@
 			<div class="page_navigation"></div>
 		</div>-->
 	</div>
-</div>
+</div> -->

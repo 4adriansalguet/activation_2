@@ -4,8 +4,7 @@
             <div class="contact_us">
                 <h2>GET A QUOTE</h2>
                 <h3>CONTACT US</h3>
-                <p>Please fill out the form below and we will get back to you as soon as we can with a reply.
-                    Thank you.
+                <p>Please fill out the form below and we will get back to you as soon as we can with a reply. Thank you.
                 </p>
                 <form action="sendContactForm" method="post" class="sends-email ctc-form">
                 <label for="name" class="screen-reader-text">Name</label>
@@ -33,73 +32,28 @@
                     </div>
                 </form>
             </div>
-            <div class="information">
-                <div class="information-wrapper">
-                    <div class="logo_wrapper">
-                        <img class="logos"
-                            src="<?php echo URL ?>./public/images/common/footer-logo.fw.png" alt="footer logo">
-                        <img class="logos"
-                            src="<?php echo URL ?>/public/images/common/nahb.fw.png" alt="footer logo">
-                    </div>
-                    <div class="soc_med_footer_flex">
-                        <div class="row-info-contact">
-                            <div class="col-info">
-                                <img src="<?php echo URL ?>./public/images/common/footer-call.fw.png" alt="footer call">
-                                <div class="info-content">
-                                    <p>Phone</p>
-                                    <h3><a href="tel:<?php $this->info("phone"); ?>"><?php $this->info("phone"); ?></a>
-                                    </h3>
-                                </div>
-                            </div>
-                            <div class="col-info">
-                                <img src="<?php echo URL ?>./public/images/common/footer-mail.fw.png" alt="footer mail">
-                                <div class="info-content">
-                                    <p>Email</p>
-                                    <h6><a href="mailto:<?php $this->info("email"); ?>"><?php $this->info("email"); ?></a></h6>
-                                </div>
-                            </div>
-                        </div>
+
                         <div class="information-social">
-                            <a href="#"><img
-                                    src="<?php echo URL ?>./public/images/icons/facebook.fw.png"
-                                    alt="footer facebook"></a>
-                            <a href="#"><img
-                                    src="<?php echo URL ?>./public/images/icons/instagram.fw.png"
-                                    alt="footer instagram"></a>
-                            <a href="#"><img
-                                    src="<?php echo URL ?>./public/images/icons/location.fw.png"
-                                    alt="footer location"></a>
+                            
                         </div>
                     </div>
                 </div>
             </div>
 
         </div>
-        <div class="footer_menu">
-            <div class="footer_content">
-                <ul class="menu_flex">
-                    <div class="footer_content">
-                        <ul class="menu_flex">
-                            <li <?php $this->helpers->isActiveMenu("home"); ?>><a href="<?php echo URL ?>">HOME</a></li>
-                            <li <?php $this->helpers->isActiveMenu("commercial"); ?>><a href="<?php echo URL ?>commercial#content">COMMERCIAL RENDERINGS</a></li>
-                            <li <?php $this->helpers->isActiveMenu("residential"); ?>><a href="<?php echo URL ?>residential#content">RESIDENTIAL RENDERINGS</a></li>
-                            <li <?php $this->helpers->isActiveMenu("interior"); ?>><a href="<?php echo URL ?>interior#content">INTERIOR RENDERINGS</a></li>
-                            <li <?php $this->helpers->isActiveMenu("floorplan"); ?>><a href="<?php echo URL ?>floorplan#content">FLOORPLAN RENDERINGS</a></li>
-                            <li <?php $this->helpers->isActiveMenu("permit"); ?>><a href="<?php echo URL ?>permit#content">PERMIT TO BUILD RENDERINGS</a></li>
-                            <li <?php $this->helpers->isActiveMenu("contractor"); ?>><a href="<?php echo URL ?>contractor#content">CONTRACTOR RENDERINGS</a></li>
-                            <li <?php $this->helpers->isActiveMenu("virtual"); ?>><a href="<?php echo URL ?>virtual#content">VIRTUAL STAGING</a></li>
-                        </ul>
-                    </div>
-            </div>
-        </div>
 
         <div class="owners">
             <p class="copyright">©
-                <?php echo date("Y"); ?> Renderings Plus. All Rights Reserved.
+                <?php echo date("Y"); ?> Hi-Tech Appliance Specialists All Rights Reserved.
             </p>
         </div>
 
 </footer>
+
+
+
+
+
 
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
