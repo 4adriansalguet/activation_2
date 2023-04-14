@@ -1,6 +1,8 @@
 <footer id="footer">
     <div class="footer_container">
         <div class="footer_wrapper">
+
+
             <div class="contact_us">
                 <h2>GET A QUOTE</h2>
                 <h3>CONTACT US</h3>
@@ -33,12 +35,10 @@
                 </form>
             </div>
 
-                        <div class="information-social">
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
+                       
+                    
+                
+            
 
         </div>
 

@@ -52,10 +52,25 @@
             </div>
         </div>
         <div class="our_works_flex">
-            <img src="./public/images/common/works1.png" alt="service">
-            <img src="./public/images/common/works2.png" alt="service">
-            <img src="./public/images/common/works3.png" alt="service">
-            <img src="./public/images/common/works4.png" alt="service">
+            <img src="./public/images/common/works1.png" alt="tubero service">
+            <img src="./public/images/common/works2.png" alt="ref service">
+            <img src="./public/images/common/works3.png" alt="ref service">
+            <img src="./public/images/common/works4.png" alt="lutuan service">
+        </div>
+    </div>
+</section>
+
+
+<section id="brands">
+    <div class="brands_wrapper">
+        <h2>Brands We Service</h2>
+        <div class="brands_logo">
+            <a href="#"><img src="./public/images/common/kaliwa.png" alt="brand"></a>
+            <a href="#"><img src="./public/images/common/mgabrand.png" alt="brand"></a>
+            <a href="#"><img src="./public/images/common/kusinabrand.png" alt="brand"></a>
+            <a href="#"><img src="./public/images/common/kenmorebrand.png" alt="brand"></a>
+            <a href="#"><img src="./public/images/common/life_is_good.png" alt="brand"></a>
+            <a href="#"><img src="./public/images/common//kanan.png" alt="brand"></a>
         </div>
     </div>
 </section>
